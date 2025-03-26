@@ -7,7 +7,7 @@ from routes.admin_routes import admin_bp
 from flask_cors import CORS
 
 app = Flask(__name__)
-app.config.from_object(Config)s
+app.config.from_object(Config)
 
 CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}}, supports_credentials=True)
 
