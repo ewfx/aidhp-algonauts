@@ -27,11 +27,38 @@ Modern consumers expect tailored experiences that align with their unique prefer
 The inspiration for this project stems from the growing demand for personalized financial experiences that cater to individual preferences and behaviors. With digital banking on the rise and customers expecting tailored insights, leveraging AI-driven recommendations can enhance financial decision-making, boost engagement, and promote financial well-being.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+✅ Role-Based Access Control
+      Customers & Admins have separate functionalities.
+
+✅ Personalized Financial Recommendations
+      Admin receive AI-driven personalized suggestions for loans, investments, and credit management for each customer based on their risk profile.
+
+✅ Risk-Based Customer Segmentation
+      Admins can classify customers as low-risk, medium-risk, or high-risk using machine learning models.
+
+✅ Insights & Trend Analysis
+      Visual dashboards help admins analyze customer behavior for better financial decision-making.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
-
+   🔹 Frontend: ReactJS + Material-UI (Wells Fargo Theme)
+   
+   🔹 Backend: Python (Flask)
+   
+   🔹 Database: PostgreSQL
+   
+   🔹 Authentication: JWT-based secure login/signup
+   
+   🔹 Machine Learning Models:
+   
+         Large Language Model-LLM
+         
+         Linear Regression - LR 
+         
+         K-Means
+         
+         XGBoost (Optimized recommendations)
+         
+   🔹 Hyperparameter Tuning for better accuracy
 ## 🚧 Challenges We Faced
 Financial data often contains inconsistencies, missing values, and outliers, requiring extensive preprocessing to ensure data integrity.
 Encouraging users to trust and rely on AI-driven financial insights requires a transparent, user-centric design with demonstrable value.
@@ -70,3 +97,13 @@ Striking a balance between enhancing customer engagement and achieving organizat
 - **Srinidhi C** - [GitHub](#) | [LinkedIn](#)
 - **Shreya S** - [GitHub](#) | [LinkedIn](#)
 - **Ananya C** - [GitHub](#) | [LinkedIn](#)
+
+## Requirements
+   ## DataBase Connection
+      Please contact the team.
+   ## API requirements
+      Google Generative AI API key is required to generate insights for customers in admin dashboard. 
+   
+
+
+
