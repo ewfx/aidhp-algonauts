@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-Customers of today need highly customised experiences that take into account their individual tastes. We created a Generative Al-powered solution that analyses demographic information, sentiment data, purchasing history, and consumer profiles to improve hyper-personalization. This project creates a system that offers organisations actionable insights to maximise client engagement while simultaneously producing personalised suggestions for goods, services, or content.
+Modern consumers expect tailored experiences that align with their unique preferences, lifestyle, and financial goals. To meet this demand, we developed a Generative AI-powered solution designed to revolutionize hyper-personalization in customer engagement. Our solution leverages machine learning techniques to analyze a wide range of data points, including customer demographics, sentiment data, financial data, and purchase history. By combining these insights, the system intelligently identifies patterns, behaviors, and preferences to deliver highly personalized recommendations for financial products and services. By understanding customer needs more effectively, organizations can improve marketing campaigns, optimize product positioning, and tailor communication for maximum impact.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
