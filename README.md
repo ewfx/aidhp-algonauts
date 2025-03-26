@@ -99,11 +99,16 @@ Striking a balance between enhancing customer engagement and achieving organizat
 - **Ananya C** - [GitHub](#) | [LinkedIn](#)
 
 ## Requirements
-   ## DataBase Connection
-      Create a SupaBase account for free and use the password in the config.py file in the Backend to connect to the database.
-      Link for : [https://supabase.com/](#)
-   ## API requirements
-      Google Generative AI API key is required to generate insights for customers in admin dashboard.To generate API key refer the link : [https://aistudio.google.com/app/apikey](#).This API key should be replaced in insights.py.
+### Database Connection
+Create a Supabase account for free and use the password in the `config.py` file in the Backend to connect to the database.  
+[Create a Supabase account](https://supabase.com/)
+
+### API Requirements
+Google Generative AI API key is required to generate insights for customers in the admin dashboard.  
+[Get a Google AI Studio API Key](https://aistudio.google.com/app/apikey)  
+
+This API key should be replaced in `insights.py`.
+
 
 
    
